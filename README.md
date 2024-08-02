@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Network Engineering
 - 📫 How to reach me: lucasaculzy@yahoo.com
+- 😄 Read more about my blog: [here](https://vkkkv.github.io/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkkkv&show_icons=true&theme=onedark)
 
