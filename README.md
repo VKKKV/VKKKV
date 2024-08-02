@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning Network Engineering
+- 📫 How to reach me: lucasaculzy@yahoo.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkkkv&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkkkv&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=vkkkv&theme=dracula)
