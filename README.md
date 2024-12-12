@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Network Engineering
-- 📫 How to reach me: lucasaculzy@yahoo.com
+- 🌱 I’m currently learning Reverse Engineering
 - 😄 Read more about my blog: [here](https://vkkkv.github.io/)
 
 
