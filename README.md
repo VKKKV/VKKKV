@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **VKKKV/VKKKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Reverse Engineering
-- 😄 Read more about my blog: [here](https://vkkkv.github.io/)
+Read more about my blog: [here](https://vkkkv.github.io/)
