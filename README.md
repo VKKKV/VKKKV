@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VKKKV/VKKKV/output/metrics.isocalendar.svg" alt="Isometric Contribution Calendar" />
+  <img src="https://gist.githubusercontent.com/VKKKV/5f7c2f84bf0736d708a619bb92a7df70/raw/metrics.isocalendar.svg" alt="Isometric Contribution Calendar" />
 </p>
 
 <p align="center">
