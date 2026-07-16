@@ -6,3 +6,7 @@
 <p align="center">
   <img src="https://gist.githubusercontent.com/VKKKV/5f7c2f84bf0736d708a619bb92a7df70/raw/metrics.isocalendar.svg" alt="Isometric Contribution Calendar" />
 </p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@VKKKV.github.readme?darkmode=auto" alt="Moe Counter" />
+</p>
